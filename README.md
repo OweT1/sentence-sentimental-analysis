@@ -2,6 +2,6 @@
 
 Models Experimented:
 
-`bert-base-uncased`
-`bert-large-uncased`
-`distilbert-base-uncased`
+1. `bert-base-uncased`
+2. `bert-large-uncased`
+3. `distilbert-base-uncased`
